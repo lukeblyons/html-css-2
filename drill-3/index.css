@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: lightgrey;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+
+  .small-square {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+  }
+
+  .article {
+  padding: 50px;
+  }
+
+.container {
+    height: 15vh;
+}
+
+  .container-two {
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(0, 115, 255);
+  }
+
+  .container-three {
+    width: 100%;
+    height: 20vh;
+    background-color: turquoise;
+  }
+
+  .container-four {
+    width: 100%;
+    height: 20vh;
+    background-color: lightgreen;
+  }
+
+  .container-five {
+    width: 100%;
+    height: 20vh;
+    background-color: yellow;
+  }
+  .question-container {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+  }
+  
+  .question-container button {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+    text-align: center;
+  }
+  
